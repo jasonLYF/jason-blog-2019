@@ -1,6 +1,6 @@
 ### View的绘制
 
-![1734948-b4493f7b0234dd69.jpg](http://note.youdao.com/yws/res/5702/WEBRESOURCEbe7f3f2b1e00e3d2e1702768d7f0636f)
+![1734948-b4493f7b0234dd69.jpg](https://user-images.githubusercontent.com/20217827/77330731-b6d33280-6d5a-11ea-90a0-2b01e98656e6.jpg)
 
 View的绘制流程是从ViewRoot的performTraversals方法开始，performTraversals会依次调用performMeasure，performLayout，performDraw，这三个方法分别完成View的measure，layout，draw三个流程；
 
