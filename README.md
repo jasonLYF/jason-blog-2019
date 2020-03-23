@@ -1,4 +1,11 @@
 
+### Bitmap相关
+[Bitmap创建](https://github.com/jasonLYF/jason-blog-2019/blob/master/Bitmap%20创建.md)  
+[BitmapFactory](https://github.com/jasonLYF/jason-blog-2019/blob/master/BitmapFactory.md)  
+[Bitmap内存](https://github.com/jasonLYF/jason-blog-2019/blob/master/Bitmap内存.md)  
+[Bitmap压缩](https://github.com/jasonLYF/jason-blog-2019/blob/master/Bitmap压缩.md)  
+[Bitmap转换](https://github.com/jasonLYF/jason-blog-2019/blob/master/Bitmap转换.md)  
+[图片三级缓存](https://github.com/jasonLYF/jason-blog-2019/blob/master/图片三级缓存.md)  
 
 ### View相关
 [View坐标体系](https://github.com/jasonLYF/jason-blog-2019/blob/master/View坐标.md)  
