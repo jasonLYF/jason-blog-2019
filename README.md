@@ -1,3 +1,7 @@
+### Activity相关
+[Activity 生命周期](https://github.com/jasonLYF/jason-blog-2019/blob/master/Activity%20生命周期.md)  
+[Activity 启动模式与Flag](https://github.com/jasonLYF/jason-blog-2019/blob/master/Activity的启动模式与Flag.md)  
+
 
 ### Bitmap相关
 [Bitmap创建](https://github.com/jasonLYF/jason-blog-2019/blob/master/Bitmap%20创建.md)  
